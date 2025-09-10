@@ -34,7 +34,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "geraldus-catur-footballnews.pbp.cs.ui.ac.id"]
 
-CRSF_TRUSTED_ORIGIN = [
+CSRF_TRUSTED_ORIGIN = [
     "https://geraldus-catur-footballnews.pbp.cs.ui.ac.id"
 ]
 
